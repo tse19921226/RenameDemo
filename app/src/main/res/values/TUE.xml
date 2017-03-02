@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aMainTUE">
+        <item>陽光下、順光、晴天</item>
+        <item>陽光下、逆光</item>
+        <item>陽光下、陰影</item>
+        <item>陰天</item>
+        <item>夕陽</item>
+        <item>夜晚</item>
+        <item>室內</item>
+    </string-array>
+    <string-array name="SubTUE01">
+        <item>請選擇</item>
+        <item>藍天、綠地、樹木、建築物、人物</item>
+        <item>(錄影)藍天、綠地、樹木、建築物、人物</item>
+        <item>綠草、鮮豔花朵</item>
+        <item>整片綠色草地、人物</item>
+        <item>整片綠色草地</item>
+        <item>(錄影)整片綠色草地</item>
+        <item>近距離拍攝有紋路物體</item>
+        <item>建築物</item>
+        <item>建築物 2X zoom</item>
+        <item>藍色天空</item>
+        <item>河面、海面</item>
+        <item>對焦淺景深微小物體，畫面大多數遠景深</item>
+    </string-array>
+    <string-array name="SubTUE02">
+        <item>請選擇</item>
+        <item>藍天、背光建築物、人物在陰影中</item>
+        <item>(逆光)河面、海面</item>
+    </string-array>
+    <string-array name="SubTUE03">
+        <item>請選擇</item>
+        <item>整片綠色草地、人物在陰影中</item>
+        <item>綠草、鮮豔花朵在陰影中</item>
+    </string-array>
+    <string-array name="SubTUE04">
+        <item>請選擇</item>
+        <item>天空、綠地、樹木、鮮豔花朵、建築物、人物</item>
+        <item>(陰天)河面、海面</item>
+        <item>(陰天)整片綠色草地</item>
+        <item>(陰天)建築物</item>
+    </string-array>
+    <string-array name="SubTUE05">
+        <item>請選擇</item>
+        <item>橘色天空、大樓遠景(太陽仍未落下)</item>
+        <item>紫色或藍色天空、大樓遠景(太陽已落到地平線下)</item>
+    </string-array>
+    <string-array name="SubTUE06">
+        <item>請選擇</item>
+        <item>從高處往下拍大樓、街道(Auto mode/Flash off)</item>
+        <item>從高處往下拍大樓、街道(Night mode/Flash off)</item>
+        <item>從高處往下拍大樓、街道人物距離相機1.5M(Auto mode/Flash off)</item>
+        <item>(錄影)從高處往下拍大樓、街道人物距離相機1.5M(Auto mode/Flash off)</item>
+        <item>從高處往下拍大樓、街道人物距離相機1.5M(Auto mode/Flash on)</item>
+        <item>(錄影)從高處往下拍大樓、街道人物距離相機1.5M(Auto mode/Flash on)</item>
+        <item>從高處往下拍大樓、街道人物距離相機3M(Auto mode/Flash on)</item>
+        <item>打燈街道、人物距離相機1–2M(Auto mode/Flash off)</item>
+        <item>打燈街道、人物距離相機1–2M(Auto mode/Flash on)</item>
+        <item>沒有光害的夜景(Auto mode/Flash on)</item>
+    </string-array>
+    <string-array name="SubTUE07">
+        <item>請選擇</item>
+        <item>鎢絲燈、人物</item>
+        <item>日光燈、人物</item>
+        <item>鎢絲燈、鮮豔食物</item>
+        <item>鎢絲燈、人物距離相機1–2M(Auto mode/Flash on)</item>
+        <item>Horizon燈或鎢絲燈、戶外陽光、人物</item>
+        <item>日光燈、快速移動人物或物體(連拍、從lunch camera開始測試)</item>
+        <item>(錄影)日光燈、快速移動人物或物體(連拍、從lunch camera開始測試)</item>
+        <item>燭光、正對燭光人物、鮮豔食物(Auto mode/Flash off)</item>
+        <item>燭光、正對燭光人物、鮮豔食物(Auto mode/Flash on)</item>
+        <item>五彩雷射燈、聚焦手電筒、鮮豔食物、人物</item>
+        <item>黑色不易反光物體</item>
+        <item>白色易反光物體</item>
+    </string-array>
+
+</resources>
